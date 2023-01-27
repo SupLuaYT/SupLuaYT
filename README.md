@@ -1,4 +1,4 @@
-### Hey Sussy, Subscribe GroxyBlox! 
+### error("Hey Sussy, Subscribe GroxyBlox!") 
 
 <!--
 **SupLuaYT/SupLuaYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
